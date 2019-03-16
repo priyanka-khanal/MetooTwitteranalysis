@@ -3,6 +3,7 @@
 ### Introduction
 <img src="MeToo.jpeg">
 
+<<<<<<< HEAD
 Tarana Burke firstly coined the term "MeToo" in 2006. This movement is against sexual harrassment and sexual assault. The main slogan of this movement is "You are not alone" and after the viral #MeToo in social media which was popularized by actress Alyssa Milano in 2017, millions of surviors have come forward with their stories standing together with other surviours. These surviors include famous faces like Actress Ashley Judd, Jennifer Lawerence, Olympic gymnast McKayla Maroney. According to Pew Research, the hastag has been used more that 19 million times around the world.
 
 This project has gathered 10,000 most recent tweets with #metoo. Then, the tweets were cleaning by removing the username and strings. Any words which are have less than 4 characters were also removed. Those tweets were than used for sentiment analysis.
@@ -27,4 +28,8 @@ Tarana Burke is the founder of "MeToo movement". She was born in September 12, 1
 ###References
 https://www.biography.com/people/tarana-burke
 http://www.pewresearch.org/fact-tank/2018/10/11/how-social-media-users-have-discussed-sexual-harassment-since-metoo-went-viral/ft_18-10-11_metooanniversary_hashtag-used-19m_times/
+=======
+### Description
+<img src="MeToo.jpeg">
+>>>>>>> a91a16a81164c7d679ad269f19cb7040f4b431a0
 
