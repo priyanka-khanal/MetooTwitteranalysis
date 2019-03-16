@@ -28,10 +28,11 @@ Tarana Burke is the founder of "MeToo movement". She was born in September 12, 1
 
 ### Analysis of tweets
 40 recent Tarana Burke tweets were extracted and cleaned. Lexical diversity of Tarana Burke's tweets is 0.74. Word cloud of Tarana Burke's tweets was generated and the words generation in the cloud were "survivors, Permission, finding justice,blasphemy" etc. 
+<br>
 <img src="TBurke_tweets.png">
 
 
-###References
+### References
 1. https://www.biography.com/people/tarana-burke
 2. http://www.pewresearch.org/fact-tank/2018/10/11/how-social-media-users-have-discussed-sexual-harassment-since-metoo-went-viral/ft_18-10-11_metooanniversary_hashtag-used-19m_times/
 3. https://www.nytimes.com/2019/01/11/world/australia/craig-mclachlan-indecent-assault.html
